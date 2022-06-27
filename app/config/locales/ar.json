@@ -1,7 +1,8 @@
 {
+  "welcome": "مرحبًا بك في NewsFeed",
   "tabs": {
     "news": "الاخبار",
-    "app-settings": "إعدادات التطبيقات",
+    "app-settings": "إعدادات التطبيقات"
   },
   "search": "البحث",
   "no-articles": "لا توجد مقالات",
