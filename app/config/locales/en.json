@@ -1,0 +1,11 @@
+{
+  "tabs": {
+    "news": "News",
+    "app-settings": "App Settings"
+  },
+  "search": "Search",
+  "no-articles": "No articles",
+  "language": "Language",
+  "arabic": "العربية",
+  "english": "الإنجليزية"
+}
